@@ -1,3 +1,3 @@
 <div align="center">
-	<img src="info.svg">
+	<img src="https://github.com/sindresorhus/sindresorhus/raw/master/info.svg">
 </div>
