@@ -13,7 +13,7 @@
 
 		a {
 		  background-color: initial;
-		  color: #0366d6;
+		  color: rgb(9, 105, 218);
 		  outline-width: 0;
 		  text-decoration: underline;
 		}
