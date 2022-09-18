@@ -15,7 +15,7 @@
 		  background-color: initial;
 		  color: rgb(9, 105, 218);
 		  outline-width: 0;
-		  text-decoration: underline;
+		  text-decoration: none;
 		}
 
 		.bad-day {
